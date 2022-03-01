@@ -11,7 +11,7 @@ class Cliente extends Persona{
     }
     
     get fechaRegistro(){
-        return thi
+        return this
     }
     set fechaRegistro(fechaRegistro){
         this._fechaRegistro = fechaRegistro;
